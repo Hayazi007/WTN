@@ -23,7 +23,7 @@ class Bird extends Animal
 	}
 	void fly()
 	{
-		System.out.println("Bird fly");
+		System.out.println("Bird cry");
 	}
 }
 public class EXC_i1 {
@@ -35,7 +35,7 @@ public class EXC_i1 {
       a.sleep();
       b.eat();
       b.sleep();
-      b.fly();
+      b.cry();
 	}
 
  
