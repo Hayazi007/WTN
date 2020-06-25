@@ -6,7 +6,7 @@ private int year;
 private String insurance;
    Employee(double salary,int year,String insurance)
    {
-	   super("Gowtham");
+	   super("Hayazi");
 	   this.salary=salary;
 	   this.year=year;
 	   this.insurance=insurance;
